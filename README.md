@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @CarryAllen
 - 👀 I’m interested in wed design/development
 - 🌱 I’m currently learning React.js
-- 💞️ I used to work for Infosys BPM as Back-end support
-- 📫 You can reach me on:
-    Email: rohanshingade1095@gmail.com
+- 💞️ I used to work for Infosys BPM as Back-end support & searching for job in web development
+- 📫 You can reach me on: 
+    Email: rohanshingade1095@gmail.com | 
     LinkedIn: www.linkedin.com/in/rohan-s-a56210165
  
 
