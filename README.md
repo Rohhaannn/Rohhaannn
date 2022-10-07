@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CarryAllen - Rohan Shingade
+- 👋 Hi, I’m Rohan Shingade - @CarryAllen
 - 👀 I’m interested in wed design/development
 - 🌱 I’m currently learning React.js
 - 💞️ I used to work for Infosys BPM as Back-end support
