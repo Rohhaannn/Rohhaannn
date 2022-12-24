@@ -4,7 +4,7 @@
 - 💞️ I used to work for Infosys BPM as Back-end support
 - 💻 Searching for job in web development in Pune.
 - 📫 You can reach me on: 
-    Email: rohanshingade1095@gmail.com | 
+    Email: shingaderohan96@gmail.com | 
     LinkedIn: www.linkedin.com/in/rohan-s-a56210165
  
 
