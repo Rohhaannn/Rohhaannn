@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rohan Shingade - @CarryAllen
-- 👀 I’m interested in wed design/development
-- 🌱 I’m currently learning React.js
+- 👀 I’m highly interested in wed design/development
+- 🌱 I’m currently learning - DSA | JavaScript | React.js
 - 💞️ I used to work for Infosys BPM as Back-end support
-- 💻 Searching for job in web development in Pune.
+- 💻 Webdeveloper | front-end developer(React).
 - 📫 You can reach me on: 
     Email: shingaderohan96@gmail.com | 
     LinkedIn: www.linkedin.com/in/rohan-s-a56210165
