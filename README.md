@@ -1,5 +1,5 @@
                                Hello World👋!
-Hi there 🙆‍♀️, I'm Aachal, a frontend developer with a passion for designing web apps.
+Hi there 🙋🏼‍♂️, I'm Rohan, a Web/frontend developer with a passion for designing web apps.
 
 - 👀 I’m highly interested in wed design/development
 - 🌱 I’m currently learning - DSA | JavaScript | React.js
