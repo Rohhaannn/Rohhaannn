@@ -4,8 +4,8 @@
 
 - 👀 I’m highly interested in wed design/development
 - 🌱 I’m currently learning - DSA | JavaScript | React.js
-- 💞️ I used to work for Infosys BPM as Back-end support
-- 💻 Webdeveloper | front-end developer(React).
+- 💻 My Ultimate aim (in 2023) is Being an successfull web/front-end developer
+- 💞 fun fact : Developers tunrs coffe into code.
 - 📫 You can reach me on: 
     Email: shingaderohan96@gmail.com | 
     LinkedIn: www.linkedin.com/in/rohan-s-a56210165
