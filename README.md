@@ -1,7 +1,6 @@
                                                               Hello World👋!
                            Hi there 🙋🏼‍♂️, I'm Rohan, a Web/frontend developer with a passion for designing web apps.
 
-
 - 👀 I’m highly interested in wed design/development
 - 🌱 I’m currently learning - DSA | JavaScript | React.js
 - 💻 My Ultimate aim (in 2023) is Being an successfull web/front-end developer
