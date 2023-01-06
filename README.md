@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Rohan Shingade - @CarryAllen
+                               Hello World👋!
+Hi there 🙆‍♀️, I'm Aachal, a frontend developer with a passion for designing web apps.
+
 - 👀 I’m highly interested in wed design/development
 - 🌱 I’m currently learning - DSA | JavaScript | React.js
 - 💞️ I used to work for Infosys BPM as Back-end support
