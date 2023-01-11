@@ -1,6 +1,6 @@
 <html>
 <h1 align="center">Hello, World 👋</h1>
-<h3 align="center">Hi there 🙋🏼‍♂️, I'm Rohan, A passionate Web & frontend developer with a passion for designing web apps.</h3>
+<h3 align="center">Hi there 🙋🏼‍♂️, I'm Rohan, a web & frontend developer with a passion for designing web apps.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carryallen&label=Profile%20views&color=0e75b6&style=flat" alt="carryallen" /> </p>
