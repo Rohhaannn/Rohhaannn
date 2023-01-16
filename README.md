@@ -19,10 +19,11 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://codepen.io/https://codepen.io/your-work/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/your-work/" height="30" width="40" /></a>
 <a href="https://twitter.com/_carryallen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_carryallen" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rohan shingade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan shingade" height="30" width="40" /></a>
+<a href="https://dev.to/carryallen" target="blank"><img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--pcSkTMZL--/c_limit,f_auto,fl_progressive,q_80,w_190/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" alt="rohan shingade" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
