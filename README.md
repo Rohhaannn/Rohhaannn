@@ -20,10 +20,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/your-work/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/your-work/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ig_rohaaannn/" target="blank"><img align="center" src="https://www.svgrepo.com/show/303154/instagram-2016-logo.svg" alt="https://codepen.io/your-work/" height="30" width="40" /></a>
 <a href="https://twitter.com/_carryallen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_carryallen" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rohan shingade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan shingade" height="30" width="40" /></a>
 <a href="https://dev.to/carryallen" target="blank"><img align="center" src="https://www.svgrepo.com/show/349334/dev-to.svg" alt="rohan shingade" height="30" width="40" /></a>
+<a href="https://discord.com/" target="blank"><img align="center" src="https://www.svgrepo.com/show/452188/discord.svg" alt="Ronak- link coming soon" height="30" width="40" /></a>
 </p>
   
 <hr>
