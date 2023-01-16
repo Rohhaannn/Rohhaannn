@@ -16,7 +16,7 @@
 
 - 📫 You can reach me on : **Email: shingaderohan96@gmail.com | LinkedIn: www.linkedin.com/in/rohan-s-a56210165**
 
-- 🎯 Aim : **Being an successfull web/front-end developer in 2023**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
