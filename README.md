@@ -16,9 +16,9 @@
 
 - 📫 You can reach me on : **Email: shingaderohan96@gmail.com | LinkedIn: www.linkedin.com/in/rohan-s-a56210165**
 
-<br>
+
 <hr>
-<br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
