@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on a Project **News app (React)**
 
-- 🌱 I’m currently learning : **DSA | React**
+- 🌱 I’m currently learning : **React**
 
 - 👨‍💻 My Portfolio : [https://carryallen.github.io/myportfolio/](https://carryallen.github.io/myportfolio/)
 
