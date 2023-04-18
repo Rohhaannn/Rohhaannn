@@ -1,6 +1,6 @@
 <html>
 <h1 align="center">Hello, World 👋</h1>
-<h3 align="center">Hi there 🙋🏼‍♂️, I'm Rohan, a web & frontend developer with a passion for designing web apps.</h3>
+<h3 align="center">Hi there 🙋🏼‍♂️, I'm Rohan, a web & frontend developer with a passion for designing web & frontend's .</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carryallen&label=Profile%20views&color=0e75b6&style=flat" alt="carryallen" /> </p>
@@ -18,7 +18,7 @@
 
 <hr>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://www.instagram.com/ig_rohaaannn/" target="blank"><img align="center" src="https://www.svgrepo.com/show/303154/instagram-2016-logo.svg" alt="https://codepen.io/your-work/" height="30" width="40" /></a>
 <a href="https://twitter.com/_carryallen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_carryallen" height="30" width="40" /></a>
