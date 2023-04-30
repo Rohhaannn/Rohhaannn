@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carryallen&label=Profile%20views&color=0e75b6&style=flat" alt="carryallen" /> </p>
 
 
-- 🔭 I’m currently working as a ** FullStack Web developer** in **Solar Secure Solutions**
+- 🔭 I’m currently working as a **FullStack Web developer** in **Solar Secure Solutions**
 
 - 🌱 I’m currently learning : **React, upskilling JavaScript & DSA**
 
