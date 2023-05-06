@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning : **React, upskilling JavaScript & DSA**
 
-- 👨‍💻 My Portfolio : [https://carryallen.github.io/myportfolio/](https://carryallen.github.io/myportfolio/)
+- 👨‍💻 My Portfolio : https://rohan-shingade.github.io/myportfolio/
 
 - 💬 Ask me about : **Web development**
 
