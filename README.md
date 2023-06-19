@@ -1,21 +1,26 @@
 [![MasterHead](https://plopdo.com/wp-content/uploads/2021/10/Web-Development-San-Francisco-1.jpeg)](https://github.com/Rohan-Shingade)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-shingade&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-shingade" /> </p>
 
-<h1 align="center"> Hello World! 👋</h1>
-<h3 align="center">I'm Rohan, a passionate Web & frontend developer from India</h3>
+<h1 align="center">Hello 👋, World !</h1>
+<h3 align="center">I'm Rohan, A Front End & Web developer, with passion of creating Interactive web pages & User Interfaces</h3>
 
-<hr>
+- 🔭 I’m currently working on **React Projects**
 
+- 🌱 I’m currently learning **React & DSA**
 
-- 🌱 I’m currently learning **React-js and upskilling DSA & JavaScript**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rohan-Shingade](https://github.com/Rohan-Shingade)
 
-- 💻 My portfolio link: https://rohan-shingade.github.io/myportfolio/
-
-- 💬 Ask me about **Web development and Database**
+- 💬 Ask me about **React | Web development**
 
 - 📫 How to reach me : **📫 Email : shingaderohan96@gmail.com | 📫 LinkedIn : https://www.linkedin.com/in/rohan-s-a56210165/**
+
+- ⚡ Fun fact **The best thing about a boolean is even if you are wrong, you are only off by a bit**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 <hr>
 
