@@ -4,19 +4,19 @@
 <h1 align="center">Hello 👋, World !</h1>
 <h3 align="center">I'm Rohan, A Front End & Web developer, with passion of creating Interactive web pages & User Interfaces</h3>
 
-- 🔭 I’m currently working on **React Projects**
+- 🔭 I’m currently working on : **React Projects**
 
-- 🌱 I’m currently learning **React & DSA**
+- 🌱 I’m currently learning : **React & DSA**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate on : **Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rohan-Shingade](https://github.com/Rohan-Shingade)
 
-- 💬 Ask me about **React | Web development**
+- 💬 Ask me about : **React | Web development**
 
 - 📫 How to reach me : **📫 Email : shingaderohan96@gmail.com | 📫 LinkedIn : https://www.linkedin.com/in/rohan-s-a56210165/**
 
-- ⚡ Fun fact **The best thing about a boolean is even if you are wrong, you are only off by a bit**
+- ⚡ Fun fact :  **The best thing about a boolean is even if you are wrong, you are only off by a bit**
 
 <hr>
 
