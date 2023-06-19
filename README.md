@@ -1,5 +1,4 @@
-[![MasterHead](https://plopdo.com/wp-content/uploads/2021/10/Web-Development-San-Francisco-1.jpeg)](https://github.com/Rohan-Shingade)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-shingade&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-shingade" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rohan-shingade&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-shingade" /> </p>
 
 <h1 align="center">Hello 👋, World !</h1>
 <h3 align="center">I'm Rohan, A Front End & Web developer, with passion of creating Interactive web pages & User Interfaces</h3>
