@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on : **React Projects**
 
-- 🌱 I’m currently learning : **React & DSA**
+- 🌱 I’m currently learning : **React**
 
 - 👯 I’m looking to collaborate on : **Open Source Projects**
 
@@ -26,7 +26,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rohan-s-a56210165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohan-s-a56210165/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/ig_rohaaannn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ig_rohaaannn/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/dashboard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dashboard" height="30" width="40" /></a>
-<a href="https://discord.gg/zBECnCfY98" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="www.discord.com" height="30" width="40" /></a>
+<a href="https://discord.gg/YUFbQZyzc2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="www.discord.com" height="35" width="40" /></a>
 </p>
 
 <hr>
