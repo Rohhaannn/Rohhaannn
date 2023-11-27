@@ -13,7 +13,7 @@
 
 - 💬 Ask me about : **React | Web development**
 
-- 📫 How to reach me : 📫 LinkedIn : https://www.linkedin.com/in/rohan-s-a56210165/**
+/*- 📫 How to reach me : 📫 LinkedIn : https://www.linkedin.com/in/rohan-s-a56210165/** */
 
 - ⚡ Fun fact :  **The best thing about a boolean is even if you are wrong, you are only off by a bit**
 
