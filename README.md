@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on : **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rohan-Shingade](https://github.com/Rohhaannn)
+- 👨‍💻 All of my projects are available at [https://github.com/Rohhaannn](https://github.com/Rohhaannn)
 
 - 💬 Ask me about : **React | Web development**
 
