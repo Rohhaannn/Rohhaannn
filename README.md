@@ -24,7 +24,7 @@
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/rohan-s-a5621/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohan-s-a56210165/" height="30" width="40" /></a>   
   <a href="https://instagram.com/https://www.instagram.com/ig_rohaaannn/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ig_rohaaannn/" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/https://www.hackerrank.com/dashboard" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dashboard" height="30" width="40" /></a>
-  <a href="https://t.co/Mx6yGTnCBw" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="" height="40" width="40" /></a>
+  <a href="https://discord.gg/K2eE44WzUX" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="" height="40" width="40" /></a>
 </p>
 
 <hr>
