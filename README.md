@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on : **React.js | Next.js Projects**
 
-- 🌱 I’m currently learning : **React | Next.js | Figma**
+- 🌱 I’m currently learning : **Next.js | Figma**
 
 - 👯 I’m looking to collaborate on : **Open Source Projects**
 
