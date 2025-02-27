@@ -3,7 +3,7 @@
 <h1 align="center">Hello 👋, World !</h1>
 <h3 align="center">I'm Rohan, A Front End & Web developer, with passion of creating Interactive web pages & User Interfaces</h3>
 
-- 🔭 I’m currently working on : **React Projects**
+- 🔭 I’m currently working on : **React.js | Next.js Projects**
 
 - 🌱 I’m currently learning : **React | Next.js | Figma**
 
