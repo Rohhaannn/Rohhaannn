@@ -16,7 +16,7 @@
 
 <hr>
 
-<h3 align="center">I'm Rohan, A Front End & Web developer, with passion of creating Interactive web pages & User Interfaces</h3>
+<h1 align="center">I'm Rohan, A Front End & Web developer, with passion of creating Interactive web pages & User Interfaces</h1>
 
 - 🔭 I’m currently working on : **Next.js | Full Stack | Open Source Contribution**
 
@@ -68,7 +68,7 @@
 <div align="center">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,github,javascript,typescript,react,nodejs,express,mongodb,mysql,oracle,nextjs"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,github,javascript,typescript,react,nodejs,express,mongodb,mysql,nextjs"/>
     <br>
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,git,github,appwrite,docker,kali"/>
   </a>
