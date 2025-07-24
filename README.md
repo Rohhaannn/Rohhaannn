@@ -14,6 +14,7 @@
     </div>
 </div>
 
+<hr>
 
 <h3 align="center">I'm Rohan, A Front End & Web developer, with passion of creating Interactive web pages & User Interfaces</h3>
 
@@ -23,7 +24,7 @@
 
 - 👯 I’m looking to collaborate on : **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at my Github => [Rohhaann](https://github.com/Rohhaannn)
+- 👨‍💻 All of my projects are available at my Github => **[Rohhaann](https://github.com/Rohhaannn)**
 
 - 💬 Ask me about : **React | Frontend Developement | Web development**
 
@@ -67,15 +68,16 @@
 <div align="center">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,github,javascript,typescript,react,nodejs,express,mongodb,mysql,nextjs"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,github,javascript,typescript,react,nodejs,express,mongodb,mysql,oracle,nextjs"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,git,github,docker,kali"/>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,git,github,appwrite,docker,kali"/>
   </a>
 </div>
 
+<hr>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohhaannn&show_icons=true&locale=en&layout=compact&theme=dark" alt="rohan-shingade" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohhaannn&show_icons=true&locale=en&layout=compact&theme=dark" alt="rohan-shingade" />
 </p>
 
 <p>
