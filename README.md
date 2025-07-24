@@ -77,7 +77,7 @@
 <hr>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohhaannn&show_icons=true&locale=en&layout=compact&theme=dark" alt="rohan-shingade" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohhaannn&show_icons=true&locale=en&layout=compact&theme=dark" alt="rohan-shingade" height="355" width="355" />
 </p>
 
 <p>
