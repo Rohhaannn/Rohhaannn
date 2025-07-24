@@ -1,22 +1,22 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rohan-shingade&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-shingade" /> </p>
 
-<h1 align="center">Hello 👋, World !</h1>
 
 <div>
     <div align="center">
-       <a href="https://linkedin.com/in/https://www.linkedin.com/in/rohan-s-a5621/" script="align='center'"><img alt="Linkedin" title="Linkedin" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=I'm%20Rohan%20Shingade&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4"/></a>
+      <a href="https://linkedin.com/in/https://www.linkedin.com/in/rohan-s-a5621/" script="align='center'">
+        <img alt="Linkedin" title="Linkedin" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=I'm%20Rohan%20Shingade&fontSize=70&color=0:36bcf7,100:36bcf7&stroke=36bcf7"/>
+       </a>
     </div>
     <!-- typing effect -->
     <div align="center">
         <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&center=true&width=435&lines=%F0%9F%91%8B+A+Front+End+Developer;%F0%9F%91%8B+A+Web+Developer;%F0%9F%91%8B+A+React+Developer;%F0%9F%91%8B+A+Freelance+Developer;" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=500&center=true&width=435&lines=%F0%9F%91%8B+A+Front+End+Developer;%F0%9F%91%8B+A+Web+Developer;%F0%9F%91%8B+A+React+Developer;%F0%9F%91%8B+A+Freelance+Developer;" alt="Typing SVG" />
         </a>
     </div>
 </div>
 
-<hr>
 
-<h1 align="center">I'm Rohan, A Front End & Web developer, with passion of creating Interactive web pages & User Interfaces</h1>
+<h2 align="center">A Front End & Web developer, with passion of creating Interactive web pages & User Interfaces</h2>
 
 - 🔭 I’m currently working on : **Next.js | Full Stack | Open Source Contribution**
 
