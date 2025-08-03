@@ -37,7 +37,7 @@
 
 <div align="center">
 
-  <a href="https://twitter.com/i_m_rohaannn" target="_blank">
+  <a href="https://x.com/Pseudo_tsx" target="_blank">
     <img  src="https://skillicons.dev/icons?i=twitter"/>
   </a>
 
@@ -86,7 +86,7 @@
 <hr>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohhaannn&show_icons=true&locale=en&layout=compact&theme=dark" alt="rohan-shingade" height="355" width="355" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohhaannn&show_icons=true&locale=en&layout=compact&theme=dark" alt="rohan-shingade" />
 </p>
 
 <p>
