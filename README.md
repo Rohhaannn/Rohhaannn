@@ -3,7 +3,7 @@
 
 <div>
     <div align="center">
-      <a href="https://linkedin.com/in/https://www.linkedin.com/in/rohan-s-a5621/" script="align='center'">
+      <a href="www.linkedin.com/in/rohan-shingade" script="align='center'">
         <img alt="Linkedin" title="Linkedin" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Rohan%20Shingade&fontSize=70&color=0:36bcf7,100:36bcf7&stroke=36bcf7"/>
        </a>
     </div>
