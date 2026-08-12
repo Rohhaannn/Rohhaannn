@@ -67,5 +67,5 @@
 <br>
 
 <div align="center">
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Rohhaannn&theme=radical&no-frame=true&row=1&column=6" />
+<img src="https://project-assets-phi.vercel.app/assets/github-profile-imgs/js-animated.gif" height="400px" />
 </div>
