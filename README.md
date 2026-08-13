@@ -47,7 +47,7 @@
 <img src="https://github-readme-stats-fast.vercel.app/api?username=Rohhaannn&show_icons=true&theme=dark" width="49%" />
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rohhaannn&layout=compact&theme=dark" width="37%" />
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Rohhaannn&theme=dark" width="87%" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Rohhaannn&theme=dark" width="65%" />
 
 </div>
 
@@ -67,5 +67,5 @@
 <br>
 
 <div align="center">
-<img src="https://project-assets-phi.vercel.app/assets/github-profile-imgs/js-animated.gif" height="400px" />
+<img src="https://project-assets-phi.vercel.app/assets/github-profile-imgs/js-animated.gif" height="350px" />
 </div>
