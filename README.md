@@ -67,5 +67,5 @@
 <br>
 
 <div align="center">
-<img src="https://project-assets-phi.vercel.app/assets/github-profile-imgs/js-animated.gif" height="350px" />
+<img src="https://project-assets-phi.vercel.app/assets/github-profile-imgs/js-code.gif" height="350px" />
 </div>
