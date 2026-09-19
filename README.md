@@ -2,7 +2,7 @@
 
 # Hi, I'm Rohan 👋
 
-### Frontend Developer crafting fast, interactive UIs — based in Pune, India
+### Frontend Developer crafting fast, interactive UIs - based in Pune, India
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=React+%7C+Next.js+%7C+TypeScript;Turning+designs+into+pixel-perfect+UI;Currently+leveling+up+into+Full+Stack" />
 
