@@ -13,7 +13,8 @@
 ## 🚀 About Me
 
 - 🔭 4+ years across frontend development, most recently building pages for US-based automotive dealerships on the DealerOn platform
-- 🌱 Currently deepening backend skills — PostgreSQL, Docker
+- 🌱 Currently deepening backend skills - Node, Express, Java
+- 🧭 Exploring - Jest, Cypress, Docker, Kubernetes
 - 💬 Ask me about React, frontend architecture, or animation with Framer Motion / GSAP
 - 📫 Open to remote roles
 - ⚡ Fun fact: the best thing about a boolean is even if you're wrong, you're only off by a bit
